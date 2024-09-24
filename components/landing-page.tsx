@@ -56,9 +56,7 @@ export function LandingPageComponent() {
             Testimonials
           </Link> */}
         </nav>
-        <Button variant="outline" size="sm" className="hidden md:inline-flex">
-          Get Started
-        </Button>
+        
         <Button variant="ghost" size="icon" className="md:hidden">
           <Menu className="h-6 w-6" />
         </Button>
